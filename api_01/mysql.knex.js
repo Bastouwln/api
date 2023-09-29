@@ -8,7 +8,7 @@ module.exports = {
         port: "3306",
         user: "root",
         password: "root",
-        database: "apiDB",
+        database: "apDB",
 
     }
 };
